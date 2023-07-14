@@ -14,7 +14,7 @@ The Full Stack Booking App consists of the following pages:
 
 - **Account Page**: Provides user account-related functionalities, including profile information and bookings.
 
-  - **Profile**: Displays the user's name and email ID. It also includes a logout button.
+  - **Profile**: Displays the Username and email ID. It also includes a logout button.
 
   - **Bookings**: Shows all the user's bookings. Clicking on a specific booking displays the title of the place, address, booking information, and photos.
 
