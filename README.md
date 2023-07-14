@@ -9,6 +9,7 @@ The Full Stack Booking App consists of the following pages:
 - **Index Page**: Displays a list of available accommodations, including their title, price per night, and address. Clicking on a specific accommodation takes you to the detailed page for that place, showing photos, address, title, description, perks, extra information, check-in/check-out time, maximum number of guests, and a "Book This Place" button. The "Book This Place" button also displays the total price when selecting check-in and check-out dates.
 
 - **Login Page**: Allows users to log in to their accounts.
+  ![]("C:\Users\hp\Pictures\Screenshots\Login Page.png")
 
 - **Register Page**: Enables new users to create an account.
 
